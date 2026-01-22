@@ -6,7 +6,7 @@ Key Goals of the project are: structure business and user needs, define MVP scop
 
 ## My role
 * Identify key user goals and business objectives
-* Define MVP scope using prioritization techniques
+* Define release 1.0 scope (MVP)
 * Define acceptance criteria and usage scenarios
 * Create key analytical artefacts required for further design and development: system requirements, UI prototype, testing plan
 
