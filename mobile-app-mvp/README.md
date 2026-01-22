@@ -1,23 +1,21 @@
-# Mobile Application MVP — System Analysis Case Study
+## Обзор проекта
+Данный проект представляет собой кейс системного анализа для мобильного приложения «Умный дом».  
+Ключевые цели проекта: структурировать бизнес- и пользовательские потребности, определить объём и приоритеты MVP, перевести требования в формализованные системные артефакты и подготовить материалы для этапов разработки, дизайна и тестирования.
 
-## Project Overview
-This project represents a system analysis case study for Smart Home mobile application. 
-Key Goals of the project are: structure business and user needs, define MVP scope and priorities, translate requirements into structured system artefacts and prepare artefacts for development, design and testing phases.
+## Моя роль
+- Выявление ключевых целей пользователей и бизнес-задач  
+- Определение скоупа релиза 1.0 (MVP)  
+- Формирование критериев приемки и пользовательских сценариев  
+- Создание основных аналитических артефактов для дальнейшего проектирования и разработки: системные требования, UI-прототип, план тестирования
 
-## My role
-* Identify key user goals and business objectives
-* Define release 1.0 scope (MVP)
-* Define acceptance criteria and usage scenarios
-* Create key analytical artefacts required for further design and development: system requirements, UI prototype, testing plan
+## Ключевые артефакты
+- Карта пользовательских историй (User Story Map)  
+- Структурированные требования (user stories, критерии приёмки, сценарии)
+- Диаграммы DFD и ER  
+- Интерактивный UI-прототип  
+- План тестирования  
 
-## Key Output Artefacts
-- User Story Map
-- Structured requirements (user stories, acceptance criteria, scenarios)
-- DFD and ER diagrams
-- Interactive UI prototype
-- Testing Plan
-
-## Used tools
-- Miro
-- Draw.io
-- Figma
+## Используемые инструменты
+- Miro  
+- Draw.io  
+- Figma  
