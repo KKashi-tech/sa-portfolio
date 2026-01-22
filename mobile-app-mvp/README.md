@@ -11,9 +11,13 @@ Key Goals of the project are: structure business and user needs, define MVP scop
 * Create key analytical artefacts required for further design and development: system requirements, UI prototype, testing plan
 
 ## Key Output Artefacts
-- User Story Map (Miro)
+- User Story Map
 - Structured requirements (user stories, acceptance criteria, scenarios)
-- DFD and ER diagrams 
-- Interactive UI prototype (Figma)
-- Testing Plan 
-- **Markdown / PDF** — requirements and testing documentation
+- DFD and ER diagrams
+- Interactive UI prototype
+- Testing Plan
+
+## Used tools
+- Miro
+- Draw.io
+- Figma
